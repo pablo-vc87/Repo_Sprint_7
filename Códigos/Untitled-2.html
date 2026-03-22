@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hotel Aurora — Reserva</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="logo" aria-hidden="true"></span>
+      <div>
+        <div>Hotel Aurora</div>
+        <div class="brand-sub">Bienvenido a tu refugio</div>
+      </div>
+    </div>
+
+    <nav aria-label="Principal">
+      <button class="menu-toggle" aria-expanded="false" aria-controls="main-nav">☰</button>
+      <ul id="main-nav">
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#alojamientos">Alojamientos</a></li>
+        <li><a href="#servicios">Servicios</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+    
+
+    <a class="cta" href="#alojamientos">Reservar</a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-copy">
+          <div class="eyebrow">Experiencias únicas</div>
+          <h1>Relájate y despierta con vistas increíbles</h1>
+          <p class="lead">Habitaciones modernas, desayuno incluido y ubicación céntrica. Reserva hoy y disfruta de tarifas especiales para reservas anticipadas.</p>
+          <div class="hero-actions">
+            <a class="btn-primary" href="#alojamientos">Reservar ahora</a>
+            <a class="btn-ghost" href="#servicios">Ver servicios</a>
+          </div>
+        </div>
+
+        <aside class="reserve-panel" aria-label="Reserva rápida">
+          <label for="checkin">Entrada</label>
+          <input id="checkin" type="date" />
+          <label for="checkout">Salida</label>
+          <input id="checkout" type="date" />
+          <label for="guests">Huéspedes</label>
+          <select id="guests">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+          </select>
+          <button type="button">Comprobar disponibilidad</button>
+        </aside>
+
+      </div>
+    </section>
+
+    <section id="alojamientos" class="container">
+      <div class="section-title">
+        <h2>Alojamientos</h2>
+        <div class="section-sub">Selecciona la habitación perfecta</div>
+      </div>
+
+      <div class="cards">
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85" alt="Habitación estándar"/>
+          <h3>Habitación estándar</h3>
+          <p>1 cama doble • 20 m² • Desayuno incluido</p>
+          <div class="meta">
+            <div class="price">$1,200 MXN/Noche</div>
+            <button class="small-btn">Reservar</button>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1501117716987-c8e7f63d1f3b" alt="Habitación deluxe"/>
+          <h3>Habitación deluxe</h3>
+          <p>Cama king • 35 m² • Vista a la ciudad</p>
+          <div class="meta">
+            <div class="price">$1,900 MXN/Noche</div>
+            <button class="small-btn">Reservar</button>
+          </div>
+        </article>
+
+        <article class="card">
+          <img src="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267" alt="Suite"/>
+          <h3>Suite</h3>
+          <p>2 habitaciones • Sala • Desayuno y cena incluida</p>
+          <div class="meta">
+            <div class="price">$3,400 MXN/Noche</div>
+            <button class="small-btn">Reservar</button>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <section id="servicios" class="container">
+      <h2>Servicios destacados</h2>
+      <p>Piscina, gimnasio, Wi‑Fi gratis, estacionamiento y traslado al aeropuerto.</p>
+    </section>
+
+  </main>
+
+  <footer>
+    <div>© <strong>Hotel Aurora</strong> — Todos los derechos reservados</div>
+    <div class="footer-info">Dirección · Teléfono · Correo</div>
+  </footer>
+
+  <script>
+    const toggle = document.querySelector('.menu-toggle');
+    const nav = document.getElementById('main-nav');
+    toggle?.addEventListener('click', ()=>{
+      const expanded = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', String(!expanded));
+      nav.style.display = nav.style.display === 'flex' ? 'none' : 'flex';
+      nav.style.flexDirection = 'column';
+      nav.style.gap = '12px';
+    });
+  </script>
+</body>
+</html>

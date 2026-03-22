@@ -1,0 +1,19 @@
+Could not hear a sound from other side, Iterpreter apologized, Client disconnected call
+04
+==============
+Hasta el momento hemos hecho analisis de todos los datos para género y plataforma, pienso que deberíamos también hacer lo mismo con el rating, pero para cumplir los objetivos del paso tres creo que hay que realizar analisis temporales. no se si a partir de este momento enfocar el análisis a años (encapsulados por décadas) o no apun. 
+¿Que recomiendas para cumplir con los puntos específicos del paso 3?
+¿Lo que hemos hecho hasta ahora ¿tiene relevancia para la finalidad del proyecto?
+
+===
+Instrucciones Paso 3:
+Mira cuántos juegos fueron lanzados en diferentes años. ¿Son significativos los datos de cada período?
+Observa cómo varían las ventas de una plataforma a otra. Elige las plataformas con las mayores ventas totales y construye una distribución basada en los datos de cada año. Busca las plataformas que solían ser populares pero que ahora no tienen ventas. ¿Cuánto tardan generalmente las nuevas plataformas en aparecer y las antiguas en desaparecer?
+Determina para qué período debes tomar datos. Para hacerlo mira tus respuestas a las preguntas anteriores. Los datos deberían permitirte construir un modelo para 2017.
+Trabaja solo con los datos que consideras relevantes. Ignora los datos de años anteriores.
+¿Qué plataformas son líderes en ventas? ¿Cuáles crecen y cuáles se reducen? Elige varias plataformas potencialmente rentables.
+Crea un diagrama de caja para las ventas globales de todos los juegos, desglosados por plataforma. ¿Son significativas las diferencias en las ventas? ¿Qué sucede con las ventas promedio en varias plataformas? Describe tus hallazgos.
+Mira cómo las reseñas de usuarios y profesionales afectan las ventas de una plataforma popular (tu elección). Crea un gráfico de dispersión y calcula la correlación entre las reseñas y las ventas. Saca conclusiones.
+Teniendo en cuenta tus conclusiones compara las ventas de los mismos juegos en otras plataformas.
+Echa un vistazo a la distribución general de los juegos por género. ¿Qué se puede decir de los géneros más rentables? ¿Puedes generalizar acerca de los géneros con ventas altas y bajas?
+
