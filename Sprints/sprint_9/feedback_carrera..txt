@@ -1,0 +1,74 @@
+Hola Pablo  😀 ¿cómo estás?
+
+Soy María luz✨, parte del equipo revisor del Career Prep Course. Estuve revisando tus perfiles de LinkedIn y Portafolio y te dejo una devolución detallada basada en los criterios que trabajamos durante el curso. La idea es ayudarte a que tus perfiles digitales estén a la altura de lo que buscan las empresas tech.
+
+Proyecto 2: Revisión de Perfil LinkedIn + Portafolio. Revisión de Perfil LinkedIn
+
+Foto de perfil 
+✅Bien hecho: Tu foto es clara, profesional y transmite buena energía.
+
+Banner (imagen de portada) 
+✅Buen hecho : Agregas un banner personalizado, tu rol profesional , también tus datos de contacto como tu correo y portafolio.
+
+Titular profesional (headline) 
+✅Bien hecho: Tu headline menciona claramente tu rol o sector, lo cual es clave para búsquedas.; sumas tus herramientas técnicas
+
+Sección "Acerca de" (About me) 
+✅Bien hecho: : Está detallado y completo, tienes tu resumen y lo que estas buscando ⚠️️Oportunidad de mejora: Sumaría en esta sección tu portafolio si deseas o email profesional .
+
+5.Experiencia
+✅Bien hecho: Listas experiencias pasadas con claridad y buena presentación, tienes descripción también y logros.
+⚠️ Oportunidad de mejorar: Tu experiencia de alumnos debe. Ir en proyectos, a menos que haya sido un empleo real. Los verbos en experiencia actual van en presente. Ejecuto organizo, Gestiono
+
+Proyectos
+✅Bien hecho: , crea una sección de Proyectos donde compartas los que realizaste de manera autodidacta y los que realizaste con tripleten, que tecnologías usaste y el repositorio de github del mismo. (Añadir sección -> recomendados -> proyectos)
+
+Educación
+✅Bien hecho: Tu formación está bien detallada, incluyendo el bootcamp, detallada con lo que aprendiste.
+
+Certificaciones
+⚠️ Oportunidad de mejorar: incluye cursos o certificados complementarios, suma mucho.
+
+Idiomas
+⛔debe corregir:  Suma esta sección con los niveles correspondientes. Mínimo: Español (nativo) e Inglés (básico/intermedio/avanzado).
+
+Habilidades y aptitudes (Skills) 
+✅Bien hecho: Listas habilidades técnicas clave, lo cual mejora tu visibilidad.
+
+Voluntariado (si aplica) 
+⚠️️Oportunidad de mejora: Si tuviste alguna participación, inclúyela (aunque no sea tech). Es una gran forma de mostrar habilidades blandas como trabajo en equipo o liderazgo.
+
+URL personalizada
+✅Bien hecho: Tener una URL tipo linkedin.com/in/tu-nombre-apellido es ideal.
+
+Revisión de Portafolio
+
+    Formato general del perfil ✅Bien hecho: Tu perfil está ordenado, y transmite profesionalismo. Es fácil de navegar. ⚠️️Oportunidad de mejora: Agrega una foto, agrega un boton de descarga de cv
+
+    Descripción del perfil (Bio)
+    ✅Bien hecho: Tu bio da contexto sobre quién eres y qué haces.
+    Repositorios agregados
+    ✅Bien hecho: Tienes tu repositorio público y con nombre claro.
+    README de proyectos
+    ✅Bien hecho: Tu proyecto está detallado y completo.,  agregas una imagen por cada proyecto que al hacer clic ingresas a la información
+    Links accesibles (demos o deploys)
+    ⚠️️Oportunidad de mejora: Si no tienes deploys, sube alguno en Netlify, Vercel o GitHub Pages. Tener una demo activa es una gran ventaja.
+    Frecuencia de actualización
+    ✅Bien hecho: Se ve que hay actividad reciente en tus repos.
+
+Correcciones Finales
+
+LinkedIn: Bien hecho! tu perfil está completo y profesional. Agrega tu sección de idiomas y demás recomendaciones
+
+Portafolio: TOMA mis sugerencias , muy buen trabajo 👍 
+Te dejo una sugerencia para github si lo deseas cumplimentar 
+
+Ttutorial sobre como configurarlo y algunos perfiles de ejemplo: Video Tutorial para potenciar tu GitHub: https://www.youtube.com/watch?v=ZUeklrWb_mE&ab_channel=Programaci%C3%B3nAndroidbyAristiDevs GitHubs de ejemplo: https://github.com/JorgCaceres / https://github.com/Umiterr
+
+¡Muy buen trabajo hasta acá! Tienes un perfil en construcción con muy buenas bases. Algunos ajustes y mejoras te van a ayudar a destacarte más en procesos de selección.
+
+Sigue así, ¡estás muy cerca del nivel que buscan las empresas! 🚀
+
+Queda aprobado tu kit! Te esperamos en el Acelerador de Carrera, donde podrás conocernos 1:1 y tendrás la guía personalizada de alguno de nuestros coach para llevar todo este potencial a resultados concretos 💼.
+
+Si tienes dudas o comentarios puedes escribirme a mi Discord @luz.sofia
